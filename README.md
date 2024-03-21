@@ -32,9 +32,9 @@ The JavaScript code checks the user's internet connection status using the `wind
 
 ## Snapshots
 
-![Screenshot of Internet Connection Status](images/screenshot1.png)
+![Screenshot of Internet Connection Available](Images/screenshot1.png)
 
-![Screenshot of Internet Connection Status](images/screenshot2.png)
+![Screenshot of No Internet Connection](Images/screenshot2.png)
 
 ## Customization
 
